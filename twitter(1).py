@@ -8,7 +8,7 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 import os
-path='C:\\Users\\dehmamy_local\\Dropbox\\Groningen Courses\\Data Science Methods\\Slides\\'
+path='C:\\Users\\
 os.chdir(path)
 # os.getcwd()
 
